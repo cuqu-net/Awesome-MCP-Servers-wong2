@@ -292,6 +292,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 ## Community Servers
 
+
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
@@ -552,6 +553,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- **[CUQU找搭子](https://github.com/cuqu-net/cuqu-skill)** - Find and book offline group activities (board games, frisbee, hiking, badminton, fishing) in 10+ cities in China, or publish your own event. Hosted Streamable HTTP endpoint, read tools need no API key. Also usable as a remote server at `https://agent.cuqu.net/mcp`.
 
 ## Clients
 
